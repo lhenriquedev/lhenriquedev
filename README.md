@@ -4,6 +4,8 @@
 
 ![Henrique github stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lhenriquedev)
 
+### Habilidades
+
 <ul>
   <li>JavaScript</li>
   <li>HTML & CSS</li>
