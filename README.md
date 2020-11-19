@@ -1,6 +1,6 @@
-# Oi, meu nome é Luiz Henrique
+# Oi, meu nome é Luiz Henrique :sunglasses:
 
-## Sou estudante de Desenvolvimento Web e atualmente estudo JavaScript, HTML & CSS.
+## Sou estudante de Desenvolvimento Web e atualmente estudo JavaScript, HTML & CSS. :construction_worker:
 
 ![Henrique github stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lhenriquedev&show_icons=true&theme=radical)
 ## 
