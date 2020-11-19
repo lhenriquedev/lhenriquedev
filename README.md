@@ -2,7 +2,7 @@
 
 ## Sou estudante de Desenvolvimento Web e atualmente estudo JavaScript, HTML & CSS.
 
-![Henrique github stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lhenriquedev&theme=radical)
+![Henrique github stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lhenriquedev&show_icons=true&theme=radical)
 ## 
 ![Henrique's github stats](https://github-readme-stats.vercel.app/api?username=lhenriquedev&show_icons=true&theme=radical)
 
