@@ -11,6 +11,6 @@ Estou estudando para me tornar um Frontend Developer :computer:
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
  <br/> :computer: &nbsp; Minha stack: HTML, CSS e JS.
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, Eurotruck
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henriqueferris/)](https://www.linkedin.com/in/henriqueferris/) 
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-HenriqueMarques-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henriqueferris/)](https://www.linkedin.com/in/henriqueferris/) 
 | 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lhenrique.dev@gmail.com)](mailto:lhenrique.dev@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-lhenrique.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lhenrique.dev@gmail.com)](mailto:lhenrique.dev@gmail.com)
