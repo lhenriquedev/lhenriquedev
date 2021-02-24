@@ -16,3 +16,7 @@ Estou estudando para me tornar um Frontend Developer :computer:
 <a href="https://linkedin.com/in/henriqueferris">
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+<a href="https://twitter.com/lhenrique_dev?s=08">
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
