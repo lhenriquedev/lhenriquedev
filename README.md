@@ -12,6 +12,5 @@ Estou estudando para me tornar um Frontend Developer :computer:
  <br/> :computer: &nbsp; Minha stack: HTML, CSS e JS.
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, Eurotruck
  <br/>
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-HenriqueMarques-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henriqueferris/)](https://www.linkedin.com/in/henriqueferris/) 
-| 
-[![Gmail Badge](https://img.shields.io/badge/-lhenrique.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lhenrique.dev@gmail.com)](mailto:lhenrique.dev@gmail.com)
+
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
