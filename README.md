@@ -3,7 +3,7 @@
 # Henrique Marques
 
 ## Olá pessoal 👋
-Estou aprendendo a resolver problemas utilizando a programação e estudando para me tornar um Frontend Developer :computer:
+Estou aprendendo a resolver problemas utilizando a programação e atualmente estudando para me tornar um Desenvolvedor Front-end :computer:
 
 <div>
   <a href="https://github.com/lhenriquedev"></a>
