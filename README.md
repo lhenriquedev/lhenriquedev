@@ -3,8 +3,13 @@
 # Henrique Marques
 
 ## Olá pessoal 👋
-Estou aprendendo a resolver problemas utilizando a programação.
-Estou estudando para me tornar um Frontend Developer :computer:
+Estou aprendendo a resolver problemas utilizando a programação e estudando para me tornar um Frontend Developer :computer:
+
+<div>
+  <a href="https://github.com/lhenriquedev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lhenriquedev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhenriquedev&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
  :rocket:  &nbsp; Por enquanto estou apenas estudando*
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React ou apenas html, css e js puro.
