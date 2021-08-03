@@ -11,14 +11,28 @@ Estou aprendendo a resolver problemas utilizando a programação e estudando par
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhenriquedev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+<br/>
+
 <div>
  :rocket:  &nbsp; Por enquanto estou apenas estudando*
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React ou apenas html, css e js puro.
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
- <br/> :computer: &nbsp; Minha stack: HTML, CSS e JS.
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, Eurotruck
  <br/>
 </div>
+
+<br/>
+
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Henrique-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Henrique-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Henrique-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Henrique-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Henrique-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+<br/>
 
 <div>
   <a href="https://linkedin.com/in/henriqueferris">
