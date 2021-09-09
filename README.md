@@ -6,14 +6,6 @@
 Estou aprendendo a resolver problemas utilizando a programação e atualmente estudando para me tornar um Desenvolvedor Front-end :computer:
 
 <div>
-  <a href="https://github.com/lhenriquedev"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lhenriquedev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhenriquedev&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-<br/>
-
-<div>
  :rocket:  &nbsp; Por enquanto estou apenas estudando*
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React ou apenas html, css e js puro.
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
@@ -23,6 +15,11 @@ Estou aprendendo a resolver problemas utilizando a programação e atualmente es
 
 <br/>
 
+<div>
+  <a href="https://github.com/lhenriquedev"></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lhenriquedev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhenriquedev&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Henrique-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
