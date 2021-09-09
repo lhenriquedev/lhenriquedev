@@ -3,7 +3,7 @@
 # Henrique Marques
 
 ## Olá pessoal 👋
-Estou aprendendo a resolver problemas utilizando a programação e atualmente estudando para me tornar um Desenvolvedor Front-end :computer:
+Estou aprendendo a resolver problemas utilizando a programação e atualmente estudando para me tornar um Desenvolvedor Front-end.
 
 <div>
  :rocket:  &nbsp; Por enquanto estou apenas estudando*
