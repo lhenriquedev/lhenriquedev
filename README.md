@@ -8,9 +8,7 @@ Estou aprendendo a resolver problemas utilizando a programação e atualmente es
 <div>
  :rocket:  &nbsp; Por enquanto estou apenas estudando*
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React ou apenas html, css e js puro.
- <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, Eurotruck
- <br/>
+ <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout, Flexbox e JavaScript. React ainda não porque estou aprendendo...
 </div>
 
 <br/>
