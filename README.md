@@ -15,7 +15,7 @@ Estou aprendendo a resolver problemas utilizando a programação e atualmente es
 
 <br/>
 
-<div style="display: flex">
+<div style="display: flex; gap: 30px">
  <div>
    <a href="https://github.com/lhenriquedev"></a>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lhenriquedev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
