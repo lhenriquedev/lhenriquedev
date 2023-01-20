@@ -3,7 +3,7 @@
 # Henrique Marques
 
 ## Olá pessoal 👋
-Estou aprendendo a resolver problemas utilizando a programação e atualmente estudando para me tornar um Desenvolvedor Front-end.
+Atualmente atuando como desenvolvedor Frontend Jr, usando a stack ReactJS e TypeScript.
 
 <div>
  :rocket:  &nbsp; Por enquanto estou apenas estudando*
