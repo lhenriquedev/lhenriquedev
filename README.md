@@ -2,7 +2,7 @@ Henrique Marques
 Olá pessoal 👋
 Como Frontend Developer, sou movido por uma paixão inabalável por criar experiências de usuário excepcionais e inclusivas. Com um ano de experiência prática em desenvolvimento web, estou comprometido com o aprendizado contínuo, sempre explorando as mais recentes tecnologias e metodologias para aprimorar minhas habilidades em React, React Native, e TypeScript.
 
-Atualmente, atuo como Desenvolvedor Frontend Jr, usando a stack ReactJS e TypeScript.
+Atualmente, atuo como Desenvolvedor Frontend Pleno, usando a stack ReactJS e TypeScript.
 
 <div>
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React, NextJS ou até mesmo HTML, CSS e JavaScript puro.
